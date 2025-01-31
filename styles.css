@@ -2,9 +2,8 @@
  body {
             font-family: Arial, sans-serif;
             margin: 20px;
-            text-align: center;
         }
 img {
             height: 300px;
-            width: auto; /* Maintain aspect ratio */
+            width: auto; 
         }
